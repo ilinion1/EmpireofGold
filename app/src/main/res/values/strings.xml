@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Empire of Gold</string>
+    <string name="info1">Try to guess what \ni s behind the picture.
+But be careful, otherwise you can\n get on a jug of poisoned wine!</string>
+    <string name="info2">But if youre lucky,\n
+        you can get game points \n that will be entered into\n the record table and\n
+        will be immortalized there.</string>
+    <string name="info3">
+        Most of all you can get \n
+        if you find a treasure chest! \n
+Just not enough finding the royal family. \n
+In last place if you collect
+        \nan ancient manuscript.
+    </string>
+    <string name="info4">See you in the game!</string>
+    <string name="settings1">Choose how many decanters\n
+        \nwith poison will be in the game.
+        \n\n
+For each graph you lose 100 experience.</string>
+    <string name="result1">Your accumulated experience:</string>
+    <string name="result2">Your game experience:</string>
+</resources>
